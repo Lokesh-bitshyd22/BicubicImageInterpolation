@@ -62,6 +62,6 @@ Example Usage in MATLAB:
 ![Original and Scaled](example.png)
 Author
 ------
-Lokesh Lakshminarayanan
-Pranav P Jagathpathy
+Lokesh Lakshminarayanan <br>
+Pranav P Jagathpathy <br>
 Numerical Analysis Coursework — 2025
