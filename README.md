@@ -58,8 +58,10 @@ Example Usage in MATLAB:
     outputImage = bicubicScaling(inputImage, 2);
     imshowpair(inputImage, outputImage, 'montage');
     title('Original and Scaled Image');
-
+    
+![Original and Scaled](example.png)
 Author
 ------
 Lokesh Lakshminarayanan
+Pranav P Jagathpathy
 Numerical Analysis Coursework — 2025
