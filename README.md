@@ -60,6 +60,11 @@ Example Usage in MATLAB:
     title('Original and Scaled Image');
     
 ![Original and Scaled](example.png)
+
+Future updates:
+---------------
+- [ ] Refactor the scaling logic to ensure output size is exactly `n × s` for any scale `s`
+- [ ] Extend support to RGB (color) images
 Author
 ------
 Lokesh Lakshminarayanan <br>
